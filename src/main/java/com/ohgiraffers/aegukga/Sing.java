@@ -5,6 +5,7 @@ public class Sing {
     public static void main(String[] args) {
 
         // 1절 출력부
+        System.out.println("동해물과 백두산이");
         System.out.println("하느님이 보우하사");
         System.out.println("우리나라 만세");
       
