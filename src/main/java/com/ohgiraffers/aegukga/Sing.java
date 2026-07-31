@@ -5,6 +5,7 @@ public class Sing {
     public static void main(String[] args) {
 
         // 1절 출력부
+        System.out.println("마르고 닳도록");
 
         // 후렴구 출력부
         System.out.println("무궁화 삼천리 화려강산" +
